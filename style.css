@@ -1,0 +1,89 @@
+div.div-painting {
+    width: 400px;
+    height: 400px;
+    background-color: turquoise;
+    margin: 30px auto 0;
+}
+
+div.big-box {
+    width: 290px;
+    height: 280px;
+    float: right;
+    background-color: red;
+}
+
+div.vert-divider {
+    height: 290px;
+    width: 10px;
+    background-color: black;
+}
+
+div.top-row {
+    height: 140px;
+    background-color: green;
+}
+
+div.top-bottom-divider {
+    height: 10px;
+    background-color: black;
+}
+
+div.bottom-row {
+    height: 130px;
+    background-color: green;
+}
+
+div.bottom-divider {
+    height: 10px;
+    background-color: black;
+}
+
+div.left-box {
+    height: 110px;
+    background-color: blue;
+    width: 110px;
+    float: left;
+}
+
+div.middle-box {
+    height: 110px;
+    background-color: yellow;
+    float: left;
+    width: 240px;
+}
+
+div.bot-middle-vert-div {
+    height: 110px;
+    background-color: black;
+    width: 10px;
+}
+
+div.top-box {
+    height: 50px;
+    background-color: steelblue;
+}
+
+div.bottom-box {
+    height: 53px;
+    background-color: purple;
+    float: bottom;
+}
+
+div.middle-bot-box {
+    height: 10px;
+    background-color: black;
+}
+
+div.teeny-vert1-div {
+    height: 50px;
+    width: 10px;
+    background-color: black;
+    float: left;
+}
+
+div.teeny-vert2-div {
+    height: 53px;
+    width: 10px;
+    background-color: black;
+    float: left;
+}
